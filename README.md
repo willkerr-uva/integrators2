@@ -6,6 +6,8 @@ See also:
 
   * https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.qmc.Sobol.html
   * https://root.cern.ch/doc/master/quasirandom_8C_source.html
+
+
 SUBMISSION DETAILS:
   ndsphere.py takes command line arguments, outputs volume, uncertainty, rel error
   
